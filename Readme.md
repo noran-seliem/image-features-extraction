@@ -5,8 +5,8 @@
  
 |                       **Original**                        |              **Result**               |
 | :---------------------------------------------------------------: | :------------------------------------------------------: |
-| ![Image](./Images/Chess.jpg) | ![Image](./Images/ResultImage1.jpg) |
-| ![Image](./Images/Original.jpg) | ![Image](./Images/ResultImage3.jpg) |
+| ![Image](./images/Chess.jpg) | ![Image](./images/ResultImage1.jpg) |
+| ![Image](./images/Original.jpg) | ![Image](./images/ResultImage3.jpg) |
 
 
 HoughTransform() Function creats an empty accumulator with theta precession of 1.0 degree
